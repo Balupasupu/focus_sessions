@@ -106,4 +106,9 @@ The assignment-provided legacy StreakCounter implementation is maintained under 
 
 ## Demo Video
 
+## Demo Video
+
+[Watch Focus Sessions App Demo](https://drive.google.com/file/d/12oy3xoR9ewx4rzQnK72LWg8iG24OOJ2H/view?usp=sharing)
+
+
 Add the 2–3 minute application demonstration video link here before submission.
